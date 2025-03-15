@@ -44,7 +44,6 @@ The dataset used for training is stored in **liver.csv**, containing patient det
 ├── liver.pkl              # Trained machine learning model  
 ├── liver.csv              # Dataset used for training  
 ├── liver.ipynb            # Jupyter Notebook with ML model training  
-├── README.md              # Project documentation  
 
 ### Prediction Workflow
 - The user enters patient details in the web form.
