@@ -21,13 +21,13 @@ The dataset used for training is stored in **liver.csv**, containing patient det
 ## Installation & Usage  
 
 ### 1. Clone the Repository  
-```bash
+
     git clone https://github.com/SurajRapeti/liver-cancer-prediction.git
 
 ### 2. Install Dependencies
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ### 3. Run the Application
-```bash
- python app.py
+
+     python app.py
