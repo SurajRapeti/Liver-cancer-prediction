@@ -31,6 +31,21 @@ The dataset used for training is stored in **liver.csv**, containing patient det
 ### 3. Run the Application
 
      python app.py
+  
+### File Structure 
+├── static/  
+│   ├── 26758.jpg          # Image used in UI  
+│  
+├── templates/  
+│   ├── liver.html         # Main input page  
+│   ├── predict.html       # Output page  
+│  
+├── app.py                 # Flask application  
+├── liver.pkl              # Trained machine learning model  
+├── liver.csv              # Dataset used for training  
+├── liver.ipynb            # Jupyter Notebook with ML model training  
+├── README.md              # Project documentation  
+
 ### Prediction Workflow
 - The user enters patient details in the web form.
 - The data is sent to the Flask backend for processing.
