@@ -6,9 +6,7 @@ This project is a **Flask-based web application** that predicts liver disease us
 ## Features  
 ✅ Web-based interface using **Flask**  
 ✅ Machine learning model trained on **liver disease dataset**  
-✅ Accepts multiple user inputs for prediction  
 ✅ Displays prediction results on a separate webpage  
-✅ Includes an image in the `static` folder for UI enhancement  
 
 ## Tech Stack  
 - **Flask** (Backend)  
@@ -25,4 +23,4 @@ The dataset used for training is stored in **liver.csv**, containing patient det
 ### 1. Clone the Repository  
 ```bash
 git clone https://github.com/SurajRapeti/liver-cancer-prediction.git
-cd liver-cancer-prediction
+
