@@ -31,3 +31,8 @@ The dataset used for training is stored in **liver.csv**, containing patient det
 ### 3. Run the Application
 
      python app.py
+### Prediction Workflow
+- The user enters patient details in the web form.
+- The data is sent to the Flask backend for processing.
+- The trained model (stored as liver.pkl) predicts liver disease likelihood.
+- The result is displayed on the prediction page.
